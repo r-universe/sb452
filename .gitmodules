@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MRZero"]
+	path = MRZero
+	url = https://github.com/cran/MRZero
 [submodule "MendelianRandomization"]
 	path = MendelianRandomization
 	url = https://github.com/cran/MendelianRandomization
