@@ -7,4 +7,4 @@
 	url = https://github.com/cran/MRZero
 [submodule "MendelianRandomization"]
 	path = MendelianRandomization
-	url = https://github.com/cran/MendelianRandomization
+	url = https://github.com/sb452/mendelianrandomization
